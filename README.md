@@ -18,6 +18,13 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 
+## 🐧Project
+
+| Name                    | Description                                       | Duration      | Link                                                                                             |
+|---------------------------------|---------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------|
+| 유어웨더                            | 데일리 감정 날씨 기록 서비스                                 | `2023.06 ~ ing`     | [Github](https://github.com/yourweather/yourweather_android)                           
+
+
 ## :honeybee:Community
 - UMC(Uni Makeus Challenge_in soongsil) - 4th Android
 
