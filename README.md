@@ -22,7 +22,7 @@
 
 | Name                    | Description                                       | Duration      | Link                                                                                             |
 |---------------------------------|---------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------|
-| 유어웨더                            | 데일리 감정 날씨 기록 서비스                                 | `2023.06 ~ ing`     | [Github](https://github.com/yourweather/yourweather_android)                           
+| 유어웨더                            | 데일리 감정 날씨 기록 서비스                                 | `2023.06 ~ 08`     | [Github](https://github.com/yourweather/yourweather_android)                           
 
 
 ## :honeybee:Community
