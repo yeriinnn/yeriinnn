@@ -3,6 +3,10 @@
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yrsong0915@gmail.com)](mailto:yrsong0915@gmail.com)
 
+## :green_heart: Record
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yeriinnn)](https://velog.io/@riinnn) <br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=riinnn)](https://velog.io/@riinnn)
+
 ##  :tiger:Tech Stacks
 ### Platforms & Languages
 #### - Develop
