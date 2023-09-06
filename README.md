@@ -7,6 +7,12 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yeriinnn)](https://velog.io/@riinnn) <br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=riinnn)](https://velog.io/@riinnn)
 
+## 🐧Project
+
+| Name                    | Description                                       | Duration      | Link                                                                                             |
+|---------------------------------|---------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------|
+| 유어웨더                            | 데일리 감정 날씨 기록 서비스                                 | `2023.06 ~ 08`     | [Github](https://github.com/yourweather/yourweather_android)     
+
 ##  :tiger:Tech Stacks
 ### Platforms & Languages
 #### - Develop
@@ -20,13 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
-
-## 🐧Project
-
-| Name                    | Description                                       | Duration      | Link                                                                                             |
-|---------------------------------|---------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------|
-| 유어웨더                            | 데일리 감정 날씨 기록 서비스                                 | `2023.06 ~ 08`     | [Github](https://github.com/yourweather/yourweather_android)                           
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)                       
 
 
 ## :honeybee:Community
