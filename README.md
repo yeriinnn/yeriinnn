@@ -31,6 +31,7 @@
 
 ## :honeybee:Community
 - UMC(Uni Makeus Challenge_in soongsil) - 4th Android
+- UMC(Uni Makeus Challenge_in soongsil) - 5th Server_springboot
 
 ## :hatching_chick:Studying Log
 ![yeriinnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeriinnn&show_icons=true&theme=radical)
