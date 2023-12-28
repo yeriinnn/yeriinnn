@@ -7,18 +7,9 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yeriinnn)](https://velog.io/@riinnn) <br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=riinnn)](https://velog.io/@riinnn)
 
-## 🐧Project
-
-| Name                    | Description                                       | Duration      | Link                                                                                             | Position      | 
-|---------------------------------|---------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------|----------|
-| 유어웨더                            | 데일리 감정 날씨 기록 서비스                                 | `2023.06 ~ 08`| [Github](https://github.com/yourweather/yourweather_android)  | Android Developer |    
-
-
-
 ##  :tiger:Tech Stacks
 ### Platforms & Languages
 #### - Develop
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
