@@ -11,7 +11,7 @@
 
 | Name                    | Description                                       | Duration      | Link                                                                                             | Position      | 
 |---------------------------------|---------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------|----------|
-| 유어웨더                            | 데일리 감정 날씨 기록 서비스                                 | 1차 개발 : `2023.06 ~ 08` <br> 2차 개발 : 진행중    | [Github](https://github.com/yourweather/yourweather_android)  | Android Developer |    
+| 유어웨더                            | 데일리 감정 날씨 기록 서비스                                 | `2023.06 ~ 08`| [Github](https://github.com/yourweather/yourweather_android)  | Android Developer |    
 
 
 
