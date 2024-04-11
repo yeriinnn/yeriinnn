@@ -7,6 +7,9 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yeriinnn)](https://velog.io/@riinnn) <br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=riinnn)](https://velog.io/@riinnn)
 
+## :white_heart: Activity
+- 2023.12 ~ 2024.02 현대 소프티어 부트캠프 3기 웹백엔드 수료
+
 ##  :tiger:Tech Stacks
 ### Platforms & Languages
 #### - Develop
@@ -22,7 +25,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)                       
 
 
-## :honeybee:Community
+## :honeybee:Community & Activity
 - UMC(Uni Makeus Challenge_in soongsil)
   - 4th Android
   - 5th Server_springboot
